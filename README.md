@@ -24,3 +24,15 @@ Sistema para controle de estacionamento com o objetivo de registrar, cadastrar a
 </div><br>
 
 <hr>
+
+📟
+<ul>
+  <li>CSS</li>
+  <li>HTML</li>
+  <li>JavaScript</li>
+</ul>
+
+   
+    
+    
+
