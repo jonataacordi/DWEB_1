@@ -1,0 +1,218 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+   
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.titulo-cadastro, .titulo-cadastrados, .titulo-disponiveis{
+    text-align: center;
+    color: #007bff;
+    
+}
+
+form #reservaForm{
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+input {
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-cadastrar, .btn-consultar, .btn-vagas-disponiveis{
+    justify-content: center;
+    display: flex;
+    margin: 3px;
+    padding: 10px 12px;
+    margin-top: 10px;
+    color: #000000;
+    border: none;
+    border-radius: 4px;
+    /*width: 120px;*/
+    font-size: 16px;
+    transition-duration: 0.6s;
+    cursor: pointer;
+}
+.btn-cadastrar{
+    background-color: #04AA6D; 
+}
+.btn-consultar{
+    background-color: #007bff;
+}
+.btn-vagas-disponiveis{
+    background-color: #d5d80d;
+}
+
+.btn .btn-cadastrar:hover {
+    background-color: #8cf08c;
+}
+.btn > .btn-consultar:hover {
+    background-color: #60a8f5;
+}
+.btn > .btn-vagas-disponiveis:hover {
+    background-color: #eff0b3;
+}
+
+.btn-voltar-cadastrados, .btn-voltar-disponiveis{
+    justify-content: center;
+    display: flex;
+    margin: 3px;
+    padding: 10px 22px;
+    margin-top: 15px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+}
+
+/* Estilos para a tabela */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    font-family: Arial, sans-serif;
+    border: none;
+}
+
+/* Estilo para o cabeçalho da tabela */
+th {
+    background-color: #007bff;
+    color: white;
+    padding: 12px;
+    text-align: left;
+}
+th.tabela-consulta{
+    font-size: 14px;
+}
+
+/* Estilo para as células da tabela */
+td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Estilo para linhas alternadas (zebradas) */
+tr:nth-child(even) {
+    background-color:#c5c5c5f2;
+}
+
+/* Efeito de hover nas linhas da tabela */
+tr:hover {
+    background-color: #ddd;
+    transition: background-color 0.3s ease;
+}
+
+/* Estilo para o conteúdo da célula da primeira coluna (Proprietário) */
+td:nth-child(1) {
+    font-weight: bold;
+}
+
+/* Estilo para o conteúdo da célula da última coluna (Vaga) */
+td:nth-child(6) {
+    font-weight: bold;
+    color: #4CAF50; /* Cor verde para o número da vaga */
+}
+
+
+.campo-input {
+    width: 93%;
+}
+
+.container-input > svg {
+    margin-right: 10px;
+    font-size: 21px;
+}
+
+
+svg.svg-inline--fa.fa-building, svg.svg-inline--fa.fa-user{
+    width: 22px;
+}
+
+.campo-input#placa {
+    margin-left: 5px;
+}
+.campo-input#vaga {
+    margin-left: 5px;
+}
+
+
+.campo-input#apartamento {
+    margin-left: 5px;
+}
+
+.container-input .ap {
+    margin-bottom: -6px;
+    margin-left: -3px;
+}
+
+.container-input .icon {
+    margin-bottom: -8px;
+}
+
+.lista-vagas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 180px;
+    border-radius: 6px;
+    font-size: 16x;
+    font-weight: bold;
+    border: 2px dashed #28a745; 
+    color: #28a745; /* Cor verde para destacar */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Sombra suave para o texto */
+    transition: transform 0.3s ease; /* Efeito de transição suave */
+    cursor: pointer; /* Altera o cursor ao passar o mouse */
+}
+
+.lista-vagas:hover {
+    transform: scale(1.1); /* Efeito de escala ao passar o mouse */
+}
+
+
+@media screen and (max-width: 769px) {
+    .container-input .ap, .estacionamento{
+        padding-bottom: 6px;
+        margin-left: 4px;
+    }
+    .container-input .placaveiculo{
+        margin-left: 5px;
+    }
+    .campo-input#placa {
+        margin-left: 0 auto px;
+        display: flex;
+    }
+    .container-input > svg{
+        margin-left: 5px;
+    }
+    .campo-input {
+        margin-left: 5px;
+    }
+}
+
+
+

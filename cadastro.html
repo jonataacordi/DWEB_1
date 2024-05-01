@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@10">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Cadastro de Reserva de Vaga</title>
+</head>
+<body>
+    <div class="container">
+        <h1 class="titulo-cadastro">Sistema Cadastro de Reserva</h1>
+        <form id="reservaForm">
+            <div class="container-input">
+                <img src="images/license-plate.png" alt="Placa" class="icon placaveiculo" width="27px"><input class="campo-input" type="text" id="placa" placeholder="Placa do Veículo" required>
+
+                <i class="fa-solid fa-user"></i><input class="campo-input" type="text" id="proprietario" placeholder="Nome do Proprietário" required><br>
+            
+                <img src="images/key-room.png" alt="Numero apartamento" class="icon ap" width="30px"><input class="campo-input" type="text" id="apartamento" placeholder="Número do Apartamento" required>
+                        
+                <i class="fa-solid fa-building"></i><input class="campo-input" type="text" id="bloco" placeholder="Bloco do Apartamento" required>           
+               
+                <i class="fa-solid fa-car"></i><input class="campo-input" type="text" id="modelo" placeholder="Modelo do Veículo" required>
+                          
+                <i class="fa-solid fa-palette"></i><input class="campo-input" type="text" id="cor" placeholder="Cor do Veículo" required>
+               
+                <img src="images/overtake.png" alt="Vaga" class="icon estacionamento" width="27px"><input class="campo-input" type="text" id="vaga" placeholder="Número da Vaga" required>
+            
+            </div>
+                               
+            <div class="btn">
+                <button class="btn-cadastrar" type="button" onclick="salvar()">Cadastrar</button>
+                <button class="btn-consultar" type="button" onclick="window.location.href = 'listar-vagas-cadastradas.html'">Consultar</button>
+                <button class="btn-vagas-disponiveis" type="button" onclick="window.location.href = 'listar-vagas-disponiveis.html'">Disponíveis</button>
+            </div>
+        </form>
+    </div>
+
+    <script src="js/script.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/js/all.min.js"></script>
+</body>
+</html>
+
+

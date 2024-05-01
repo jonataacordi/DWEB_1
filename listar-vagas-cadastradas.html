@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listagem de Vagas Cadastradas</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="titulo-cadastrados">Lista de Vagas Cadastradas</h1>
+        <div id="vagasCadastradas"></div>
+        <button class="btn-voltar-cadastrados" type="button" onclick="window.location.href = 'cadastro.html'">Voltar</button>
+    </div>
+
+    <script src="js/script.js"></script>
+    <script>
+        
+        // Chama a função para listar as vagas cadastradas ao carregar a página
+        consultaReservas();     
+    </script>
+
+</body>
+</html>
