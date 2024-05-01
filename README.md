@@ -19,8 +19,8 @@ Sistema para controle de estacionamento com o objetivo de registrar, cadastrar a
 </div><br>
 
 <div align="center">
-  <p>Consulta lista vagas reservada!</p>
-  <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/3116652c-ee49-4477-b538-376bc8017ec4" width="600px">
+  <p>Consulta lista de vagas reservadas</p>
+  <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/d565dbad-be8e-4a42-838c-a3705a39b010" width="600px">
 </div><br>
 
 <hr>
