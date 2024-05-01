@@ -9,12 +9,12 @@ Sistema para controle de estacionamento com o objetivo de registrar, cadastrar a
 
 ### Cadastro realizado
 <div align="center">
-  <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/eda555c7-f6b0-42c9-9a5e-dd2d104ddd10" width="600px">
+  <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/c62b82bf-0f30-478a-a2f2-432c39e624ca" width="600px">
 </div><br>
 
 ### Erro ao cadastrar. Vaga já preenchida!
 <div align="center">
-  <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/eda555c7-f6b0-42c9-9a5e-dd2d104ddd10" width="600px">
+  <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/e280718d-f121-4291-b1d4-cdf324ef9565" width="600px">
 </div><br>
 
 ### Consulta vaga reservada
