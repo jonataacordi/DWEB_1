@@ -1,6 +1,6 @@
 ## SISTEMA CONTROLE DE ESTACIONAMENTO
 
-Sistema para controle de estacionamento com o objetivo de registrar, cadastrar as vagas de cada apartamento.
+Sistema para controle de estacionamento com o objetivo de registrar, cadastrar as vagas da garagem de cada apartamento.
 
 #### Exemplo Cadastro com 10 vagas disponíveis
 <div align="center">
