@@ -33,8 +33,8 @@ Sistema para controle de estacionamento com o objetivo de registrar, cadastrar a
 📟
 <ul>
   <li><img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/8aedf3e2-9a08-4c45-ae99-8d735f12915d" width="20px"> HTML</li>
-  <li><img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/fe032385-487e-408b-ad12-bef2b328f001" width="20px" margin-bottom="20px"> CSS</li>
-  <li><img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/e744371a-72bd-4675-a514-c00dc9b46345" width="20px" margin-bottom="20px"> JavaScript</li>
+  <li><img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/fe032385-487e-408b-ad12-bef2b328f001" width="20px"> CSS</li>
+  <li><img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/e744371a-72bd-4675-a514-c00dc9b46345" width="20px"> JavaScript</li>
 </ul>
 
    
