@@ -2,7 +2,7 @@
 
 Sistema para controle de estacionamento com o objetivo de registrar, cadastrar as vagas de cada apartamento.
 
-### Exemplo Cadastro com 10 vagas disponíveis
+#### Exemplo Cadastro com 10 vagas disponíveis
 <div align="center">
   <p>Tela de cadastro</p>
   <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/eda555c7-f6b0-42c9-9a5e-dd2d104ddd10" width="600px">
