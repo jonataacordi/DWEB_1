@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Bem-vindo(a) ao meu perfil 👨🏻‍💻</h2>
+<h2>Bem-vindo(a) ao meu perfil 👋</h2>
 </div><br>
 
 ## SISTEMA CONTROLE DE ESTACIONAMENTO
@@ -34,7 +34,7 @@ Sistema de gestão de estacionamento projetado para registrar e gerenciar as res
 </div><br>
 
 <div align="center">
-  <h3>Demostração</h3>
+  <h3>👨🏻‍💻 Demostração</h3>
   <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/ac08ad56-ef16-4d84-9ca9-1e898662e32f" width="900px">
 </div><br>
 
