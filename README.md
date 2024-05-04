@@ -40,12 +40,20 @@ Sistema de gestão de estacionamento projetado para registrar e gerenciar as res
 
 <hr>
 
-📟
+<h3>📟 Linguagens utilizadas</h3>
 <ul>
   <li><img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/8aedf3e2-9a08-4c45-ae99-8d735f12915d" width="20px"> HTML</li>
   <li><img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/fe032385-487e-408b-ad12-bef2b328f001" width="20px"> CSS</li>
-  <li><img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/e744371a-72bd-4675-a514-c00dc9b46345" width="20px"> JavaScript</li>
+  <li><img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/57afde96-d9af-40ef-bfb7-a36c07d1c520" width="20px"> JavaScript</li>
 </ul>
+<h3>🛢️ LocalStorage - Persistência dos dados localmente no navegador 🌐</h3>
+<p>&emsp;  O localStorage fornece um mecanismo simples para armazenar dados de forma persistente localmente no navegador, sem a necessidade de enviar esses dados para o servidor, por exemplo de banco de dados.<br>&emsp;  É um tipo de armazenamento de chave-valor e permite armazenar apenas dados no formato de strings. Isso significa que os dados que você armazena no localStorage devem ser serializados em strings antes de serem armazenados e desserializados de volta em objetos JavaScript quando recuperados. Isso é útil para uma variedade de cenários, incluindo:</p>
+<ol>
+  <li font-size="bold">Armazenamento de Preferências do Usuário</li>
+  <li>Persistência de Dados de Sessão</li>
+  <li>Cache de Dados</li>
+  <li>Armazenamento de Tokens de Autenticação</li>
+</ol>
 
    
     
