@@ -4,7 +4,7 @@
 
 ## SISTEMA CONTROLE DE ESTACIONAMENTO
 
-Sistema para controle de estacionamento com o objetivo de registrar, cadastrar as vagas da garagem de cada apartamento.
+Sistema de gestão de estacionamento projetado para registrar e gerenciar as reservas de vagas de estacionamento associadas a cada apartamento de proprietários. Este sistema simplificado permite o cadastro e a consulta das vagas de garagem, fornecendo uma funcionalidade básica para simular o gerenciamento de estacionamento residencial. Por se tratar de um modelo simples, as validações e recursos avançados são limitados, sendo idealizado para uma simulação de cadastro e controle de vagas de estacionamento residencial.
 
 #### Exemplo Cadastro com 10 vagas disponíveis
 <br>
