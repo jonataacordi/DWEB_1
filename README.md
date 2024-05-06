@@ -24,7 +24,7 @@ Sistema de gestão de estacionamento projetado para registrar e gerenciar as res
 </div><br>
 
 <div align="center">
-  <h3>🔎 Consulta lista de vagas reservadas 🔴</h3>
+  <h3>🔎 Consulta vagas reservadas 🔴</h3>
   <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/0d38d1e2-7b42-41f2-8b38-aab48a613647" width="600px">
 </div><br>
 
